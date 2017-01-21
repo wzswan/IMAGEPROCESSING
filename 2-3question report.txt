@@ -1,0 +1,75 @@
+2-3question Experimental Report
+
+Pros and cons of two methods
+
+Introduce
+
+I will give pros and cons of the two mentods by my experimantal analysis results.
+This report will analyze by basic experimental method,threrfore, there may be something not professional.
+
+Experimental images data
+
+1.jpg is the source image
+result.jpg got from the frist method
+resul.jpg got from the second method
+
+
+Experimental premise
+
+the two methods aim at removing noise from images.
+So the socure picture which we using a salt & pepper noise image as the experimental subject.
+
+both the two methods be executed only once.
+
+
+Criteria for judgment
+
+I will jude the results by the following conditions:
+
+1. the size of salt & pepper noise.
+2. if the noise is still exist.
+3. the clarity of image
+
+
+Experimental results
+
+the first method
+
+1.pepper noise become bigger and wore than before
+2.salt part almost disappeared
+3.There is some image distortion, not serious
+
+the seocnd mentod
+
+1.pepper noise become smaller
+2.salt part almost disappeared
+3.Image distortion serious
+
+
+Conclusion
+
+the frist method 
+
+pros: image distortion is not serious
+
+cons: noise size is worse than before
+
+  
+the second method
+
+pros: noise size become smaller 
+
+cons: Image distortion serious
+
+
+Insufficient
+
+1.try more times for removing noise
+2.Using other type noise for experiment
+
+
+Further advice
+
+Trying MSE or PSNR for image processing as the control group
+
+
